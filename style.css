@@ -372,7 +372,7 @@ body {
     font-size: 17px;
     font-weight: 600;
     color: #333;
-<<<<<<< HEAD
+
 }
 
 /* Footer-ka */
@@ -382,7 +382,7 @@ footer {
   padding: 40px 60px;
   font-family: Arial, sans-serif;
   color: black;
-  margin-top: 100px; /* Tani waa sirta! — waxay footer-ka dhigtaa hoos */
+  margin-top: 100px; 
 }
 
 .footer-container {
@@ -444,6 +444,3 @@ footer {
   padding-top: 10px;
 }
 
-=======
-}
->>>>>>> c22d6914aaa231e4098ee084dc63886d2eee5ff0
